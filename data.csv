@@ -327,7 +327,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2007,06,WILKINSON 8,WILKINSON ROAD,Success Century Pte Ltd,Strata-Landed,RCR,8,8,8,0,0,0,-,-,-
 2007,06,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,3,"7,223","7,083","7,718"
 2007,06,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,14,"5,813","4,876","6,329"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2007,07,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,30,0,0,0,0,0,-,-,-
 2007,07,3@PHILLIPS,PHILLIPS AVENUE,Sovereign Development Pte Ltd,Non-Landed,OCR,16,16,16,0,0,0,-,-,-
 2007,07,8 @ MOUNT SOPHIA,MOUNT SOPHIA,FCL Sophia Pte Ltd,Non-Landed,CCR,313,313,313,0,0,0,-,-,-
@@ -657,7 +656,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2007,07,WILKINSON 8,WILKINSON ROAD,Success Century Pte Ltd,Strata-Landed,RCR,8,8,8,0,0,0,-,-,-
 2007,07,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2007,07,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2007,08,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,30,0,0,0,0,0,-,-,-
 2007,08,8 @ MOUNT SOPHIA,MOUNT SOPHIA,FCL Sophia Pte Ltd,Non-Landed,CCR,313,313,313,0,0,0,-,-,-
 2007,08,8 @ STRATTON,STRATTON GREEN,Fairview Developments Pte Ltd,Strata-Landed,OCR,8,8,0,8,8,0,-,-,-
@@ -990,7 +988,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2007,08,WILKINSON 8,WILKINSON ROAD,Success Century Pte Ltd,Strata-Landed,RCR,8,8,8,0,0,0,-,-,-
 2007,08,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2007,08,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2007,09,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2007,09,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,30,0,0,0,0,0,-,-,-
 2007,09,8 @ MOUNT SOPHIA,MOUNT SOPHIA,FCL Sophia Pte Ltd,Non-Landed,CCR,313,313,313,0,0,0,-,-,-
@@ -1331,7 +1328,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2007,09,WILKINSON 8,WILKINSON ROAD,Success Century Pte Ltd,Strata-Landed,RCR,8,8,8,0,0,0,-,-,-
 2007,09,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2007,09,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2007,10,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2007,10,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,30,0,0,0,0,0,-,-,-
 2007,10,8 @ STRATTON,STRATTON GREEN,Fairview Developments Pte Ltd,Strata-Landed,OCR,8,8,3,5,0,3,"4,392","4,381","4,402"
@@ -1680,7 +1676,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2007,10,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2007,10,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2007,10,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,0,0,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2007,11,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2007,11,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2007,11,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,30,0,0,0,0,0,-,-,-
@@ -2039,7 +2034,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2007,11,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2007,11,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2007,11,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,0,0,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2007,12,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2007,12,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2007,12,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,30,0,0,0,0,0,-,-,-
@@ -2407,7 +2401,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2007,12,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2007,12,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2007,12,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,37,48,85,37,"17,922","16,394","18,923"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,01,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,01,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2008,01,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,30,0,0,0,0,0,-,-,-
@@ -2784,7 +2777,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,01,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2008,01,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,01,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,60,25,0,22,"18,116","16,329","18,848"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,02,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,02,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2008,02,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -3176,7 +3168,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,02,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2008,02,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,02,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,62,23,0,2,"18,611","18,471","18,740"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,03,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,03,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2008,03,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -3581,7 +3572,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,03,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2008,03,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,03,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,64,21,0,2,"18,256","18,105","18,396"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,04,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,04,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2008,04,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -3993,7 +3983,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,04,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,04,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,0,0,0,0,0,-,-,-
 2008,04,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,69,16,0,5,"18,234","16,695","18,396"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,05,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,05,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2008,05,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -4410,7 +4399,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,05,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,05,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,72,30,102,72,"13,186","11,378","15,242"
 2008,05,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,75,10,0,6,"18,568","16,469","18,869"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,06,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,06,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,0,0,0,0,0,-,-,-
 2008,06,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -4835,7 +4823,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,06,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,06,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,95,7,0,25,"13,595","11,690","15,629"
 2008,06,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,76,9,0,1,"18,525","18,525","18,525"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,07,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2008,07,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,07,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,16,16,0,4,4,"18,428","17,653","20,021"
@@ -5268,7 +5255,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,07,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,07,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,99,3,0,4,"12,508","12,368","13,003"
 2008,07,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,76,9,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,08,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2008,08,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,08,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,16,16,0,0,0,-,-,-
@@ -5697,7 +5683,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,08,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,08,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,3,"12,680","12,056","13,132"
 2008,08,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,76,9,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,09,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2008,09,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,09,2 BELMONT,BELMONT ROAD,River Springs Pte Ltd,Non-Landed,CCR,16,16,16,0,0,0,-,-,-
@@ -6137,7 +6122,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,09,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,09,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2008,09,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,77,8,0,1,"16,512","16,512","16,512"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,10,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2008,10,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,10,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -6584,7 +6568,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,10,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,10,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2008,10,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,77,8,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,11,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2008,11,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,11,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -7034,7 +7017,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,11,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,11,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2008,11,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,77,8,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2008,12,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2008,12,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2008,12,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -7491,7 +7473,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2008,12,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2008,12,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2008,12,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,77,8,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,01,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,01,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,01,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -7958,7 +7939,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,01,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,01,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,01,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,77,8,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,02,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,02,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,02,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -8427,7 +8407,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,02,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,02,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,02,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,78,7,0,1,"12,497","12,497","12,497"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,03,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,03,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,03,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -8895,7 +8874,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,03,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,03,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,03,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,78,7,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,04,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,04,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,04,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -9367,7 +9345,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,04,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,04,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,04,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,81,4,0,3,"12,906","12,831","13,444"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,05,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,05,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,05,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -9839,7 +9816,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,05,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,05,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,05,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,82,3,0,1,"12,917","12,917","12,917"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,06,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,06,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,06,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -10305,7 +10281,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,06,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,06,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,06,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,83,2,0,2,"13,993","12,917","15,059"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,07,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,07,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,07,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -10771,7 +10746,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,07,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,07,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,07,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,83,2,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,08,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,08,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,08,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -11240,7 +11214,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,08,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,08,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,08,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,83,2,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,09,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,09,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,09,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -11705,7 +11678,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,09,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,09,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,09,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,83,2,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,10,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,10,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,10,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -12167,7 +12139,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,10,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,10,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,10,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,83,2,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,11,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,11,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,11,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -12627,7 +12598,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,11,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,11,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,11,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,83,2,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2009,12,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2009,12,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2009,12,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -13090,7 +13060,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2009,12,YEWTEE RESIDENCES,YEW TEE CLOSE/CHOA CHU KANG NORTH 6,Choice Homes Alpha Pte Ltd,Non-Landed,OCR,139,139,139,0,0,0,-,-,-
 2009,12,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2009,12,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,83,2,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,01,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,01,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
 2010,01,38 AMBER,AMBER ROAD,Ho Brothers Investment Pte Ltd,Non-Landed,RCR,29,0,0,0,0,0,-,-,-
@@ -13553,7 +13522,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,01,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,01,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,01,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,83,2,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,02,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,02,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,0,0,0,0,0,-,-,-
 2010,02,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,0,0,0,0,0,-,-,-
@@ -14021,7 +13989,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,02,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,02,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,02,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,83,2,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,03,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,03,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,0,40,40,0,-,-,-
 2010,03,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,0,19,19,0,-,-,-
@@ -14483,7 +14450,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,03,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,03,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,03,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,84,1,0,1,"11,840","11,840","11,840"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,04,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,04,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,0,40,0,0,-,-,-
 2010,04,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,0,19,0,0,-,-,-
@@ -14947,7 +14913,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,04,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,04,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,04,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,1,"12,637","12,637","12,637"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,05,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,05,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,1,39,0,1,"18,891","18,891","18,891"
 2010,05,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,1,18,0,1,"15,070","15,070","15,070"
@@ -15414,7 +15379,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,05,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,05,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,05,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,06,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,06,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,1,39,0,0,-,-,-
 2010,06,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,1,18,0,0,-,-,-
@@ -15891,7 +15855,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,06,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,06,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,06,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,07,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,07,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,1,39,0,0,-,-,-
 2010,07,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,1,18,0,0,-,-,-
@@ -16364,7 +16327,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,07,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,07,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,07,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,08,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,08,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,1,39,0,0,-,-,-
 2010,08,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,2,17,0,1,"17,782","17,782","17,782"
@@ -16835,7 +16797,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,08,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,08,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,08,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,09,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,09,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,1,39,0,0,-,-,-
 2010,09,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,3,16,0,1,"18,751","18,751","18,751"
@@ -17309,7 +17270,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,09,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,09,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,09,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,10,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,10,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,5,35,0,4,"17,631","17,352","18,740"
 2010,10,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,4,15,0,1,"19,407","19,407","19,407"
@@ -17787,7 +17747,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,10,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,10,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,10,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,11,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,0,0,0,0,0,-,-,-
 2010,11,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,8,32,0,3,"18,374","17,492","18,794"
 2010,11,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,5,14,0,1,"18,837","18,837","18,837"
@@ -18268,7 +18227,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,11,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,11,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,11,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2010,12,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,4,2,2,4,2,"28,438","28,019","28,848"
 2010,12,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,21,19,0,13,"18,019","17,352","19,117"
 2010,12,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,7,12,0,2,"18,568","18,568","18,568"
@@ -18754,7 +18712,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2010,12,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2010,12,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2010,12,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,01,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,4,3,1,0,1,"27,782","27,782","27,782"
 2011,01,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,24,16,0,3,"17,976","17,976","18,105"
 2011,01,18 SHELFORD,SHELFORD ROAD,Popular Land Pte Ltd,Non-Landed,CCR,19,19,7,12,0,0,-,-,-
@@ -19233,7 +19190,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,01,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,01,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,01,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,02,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,0,0,0,0,0,-,-,-
 2011,02,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,4,4,0,0,1,"28,008","28,008","28,008"
 2011,02,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,23,17,0,0,-,-,-
@@ -19713,7 +19669,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,02,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,02,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,02,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,03,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,0,0,0,0,0,-,-,-
 2011,03,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,4,4,0,0,0,-,-,-
 2011,03,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,24,16,0,1,"17,631","17,631","17,631"
@@ -20196,7 +20151,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,03,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,03,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,03,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,04,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,38,31,69,38,"19,709","13,563","20,581"
 2011,04,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,4,4,0,0,0,-,-,-
 2011,04,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,26,14,0,2,"16,490","16,383","16,598"
@@ -20683,7 +20637,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,04,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,04,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,04,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,05,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,63,6,0,27,"19,386","13,143","20,409"
 2011,05,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,4,4,0,0,0,-,-,-
 2011,05,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,26,14,0,0,-,-,-
@@ -21169,7 +21122,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,05,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,05,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,05,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,06,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,68,1,0,6,"15,898","15,393","20,096"
 2011,06,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,4,4,0,0,0,-,-,-
 2011,06,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,26,14,0,0,-,-,-
@@ -21655,7 +21607,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,06,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,06,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,06,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,07,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,1,"20,172","20,172","20,172"
 2011,07,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,6,6,0,1,1,"29,569","29,569","29,569"
 2011,07,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,26,14,0,0,-,-,-
@@ -22139,7 +22090,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,07,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,07,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,07,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,08,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2011,08,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,6,6,0,0,0,-,-,-
 2011,08,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,27,13,0,1,"17,169","17,169","17,169"
@@ -22619,7 +22569,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,08,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,08,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,08,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,09,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2011,09,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,6,6,0,0,0,-,-,-
 2011,09,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,27,13,0,0,-,-,-
@@ -23102,7 +23051,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,09,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,09,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,09,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,10,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2011,10,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,6,6,0,0,0,-,-,-
 2011,10,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,27,13,0,0,-,-,-
@@ -23592,7 +23540,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,10,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,10,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
 2011,10,ZENITH,ZION ROAD,Galaxy Capital Pte Ltd,Non-Landed,CCR,85,85,85,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,11,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2011,11,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,6,6,0,0,0,-,-,-
 2011,11,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,27,13,0,0,-,-,-
@@ -24090,7 +24037,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,11,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
 2011,11,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
 2011,11,ZEDGE,AKYAB ROAD,Macly Pte Ltd,Non-Landed,CCR,102,102,102,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2011,12,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2011,12,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,6,6,0,0,0,-,-,-
 2011,12,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,27,13,0,0,-,-,-
@@ -24585,7 +24531,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2011,12,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,259,58,0,8,"11,119","10,107","12,088"
 2011,12,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
 2011,12,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,01,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,01,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,6,6,0,0,0,-,-,-
 2012,01,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,27,13,0,0,-,-,-
@@ -25084,7 +25029,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,01,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,266,51,0,7,"11,248","9,085","12,508"
 2012,01,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
 2012,01,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,02,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,02,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,7,7,0,1,1,"27,825","27,825","27,825"
 2012,02,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,27,13,0,0,-,-,-
@@ -25588,7 +25532,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,02,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,276,41,0,10,"11,367","8,267","11,851"
 2012,02,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
 2012,02,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,03,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,03,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,7,7,0,0,0,-,-,-
 2012,03,16 @ AMBER,AMBER ROAD,Novelty Amber Pte Ltd,Non-Landed,RCR,40,40,27,13,0,0,-,-,-
@@ -26095,7 +26038,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,03,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,280,37,0,5,"11,700","11,431","11,830"
 2012,03,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
 2012,03,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,04,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,0,0,0,0,0,-,-,-
 2012,04,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,04,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,7,7,0,0,0,-,-,-
@@ -26615,7 +26557,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,04,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,284,33,0,5,"11,087","10,829","11,388"
 2012,04,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
 2012,04,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,05,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,209,456,665,209,"7,653","5,920","8,278"
 2012,05,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,05,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,7,7,0,0,0,-,-,-
@@ -27133,7 +27074,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,05,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,286,31,0,2,"11,464","10,742","12,174"
 2012,05,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
 2012,05,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,06,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,235,430,0,29,"7,599","6,211","8,288"
 2012,06,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,06,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,7,7,0,0,0,-,-,-
@@ -27648,7 +27588,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,06,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,286,31,0,0,-,-,-
 2012,06,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
 2012,06,WORTHINGTON,HAIG ROAD/ BUTTERWORTH LANE,Ban Kim Lee Development Pte Ltd,Non-Landed,RCR,30,30,30,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,07,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,255,410,0,21,"7,750","6,426","8,234"
 2012,07,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,07,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,8,8,0,1,1,"30,710","30,710","30,710"
@@ -28165,7 +28104,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,07,WHITESHORES,PONGGOL SEVENTEENTH AVENUE,Golden Development Pte Ltd,Strata-Landed,OCR,14,0,0,0,0,0,-,-,-
 2012,07,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,286,31,0,0,-,-,-
 2012,07,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,08,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,272,393,0,20,"7,578","6,426","8,428"
 2012,08,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,08,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,9,9,0,1,1,"25,930","25,930","25,930"
@@ -28677,7 +28615,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,08,WHITESHORES,PONGGOL SEVENTEENTH AVENUE,Golden Development Pte Ltd,Strata-Landed,OCR,14,0,0,0,0,0,-,-,-
 2012,08,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,286,31,0,0,-,-,-
 2012,08,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,09,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,299,366,0,28,"7,729","6,329","8,568"
 2012,09,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,09,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,18,18,0,9,9,"26,792","26,006","29,213"
@@ -29185,7 +29122,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,09,WHITESHORES,PONGGOL SEVENTEENTH AVENUE,Golden Development Pte Ltd,Strata-Landed,OCR,14,0,0,0,0,0,-,-,-
 2012,09,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,288,29,0,2,"11,141","11,119","11,152"
 2012,09,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,10,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,327,338,0,32,"7,772","6,265","8,245"
 2012,10,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
 2012,10,111 EMERALD HILL,EMERALD HILL ROAD,Emerald Land Pte Ltd,Non-Landed,CCR,40,18,18,0,0,0,-,-,-
@@ -29696,7 +29632,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,10,WHITESHORES,PONGGOL SEVENTEENTH AVENUE,Golden Development Pte Ltd,Strata-Landed,OCR,14,0,0,0,0,0,-,-,-
 2012,10,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,288,29,0,0,-,-,-
 2012,10,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,11,# 1 LOFT,LORONG 24 GEYLANG,The One Development 2 Pte Ltd,Non-Landed,RCR,80,0,0,0,0,0,-,-,-
 2012,11,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,350,315,0,25,"7,793","6,179","8,364"
 2012,11,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
@@ -30204,7 +30139,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,11,WHITESHORES,PONGGOL SEVENTEENTH AVENUE,Golden Development Pte Ltd,Strata-Landed,OCR,14,0,0,0,0,0,-,-,-
 2012,11,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,290,27,0,2,"11,485","10,452","12,519"
 2012,11,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2012,12,# 1 LOFT,LORONG 24 GEYLANG,The One Development 2 Pte Ltd,Non-Landed,RCR,80,0,0,0,0,0,-,-,-
 2012,12,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,365,300,0,19,"7,718","6,297","8,181"
 2012,12,10 SHELFORD,SHELFORD ROAD,Adam Properties Pte Ltd,Non-Landed,CCR,69,69,69,0,0,0,-,-,-
@@ -30718,7 +30652,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2012,12,WHITESHORES,PONGGOL SEVENTEENTH AVENUE,Golden Development Pte Ltd,Strata-Landed,OCR,14,0,0,0,0,0,-,-,-
 2012,12,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,290,27,0,1,"10,355","10,355","10,355"
 2012,12,WOODSVILLE 28,MEYAPPA CHETTIAR ROAD/ WOODSVILLE CLOSE,Yishun Property Pte Ltd,Non-Landed,RCR,110,110,110,0,0,0,-,-,-
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2013,01,# 1 LOFT,LORONG 24 GEYLANG,The One Development 2 Pte Ltd,Non-Landed,RCR,80,80,3,77,80,3,"14,155","14,090","14,155"
 2013,01,# 1 SUITES,LORONG 20 GEYLANG,The One Development Pte Ltd,Non-Landed,RCR,112,0,0,0,0,0,-,-,-
 2013,01,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,393,272,0,32,"7,847","6,405","8,385"
@@ -31232,7 +31165,6 @@ year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Numbe
 2013,01,WHITESCAPE,LORONG N TELOK KURAU,Sunshine 88 Pte Ltd,Non-Landed,OCR,16,16,16,0,0,0,-,-,-
 2013,01,WHITESHORES,PONGGOL SEVENTEENTH AVENUE,Golden Development Pte Ltd,Strata-Landed,OCR,14,0,0,0,0,0,-,-,-
 2013,01,WOODHAVEN,WOODGROVE AVENUE,Tampines Court Pte Ltd,Strata-Landed / Non-Landed,OCR,337,317,293,24,0,3,"11,453","11,291","11,496"
-year,month,Project Name,Street Name,Developer,Property Type,Locality,Total Number of Units in Project,Cumulative Units Launched to-date,Cumulative Units Sold to-date,Cumulative Units Launched but Unsold,Units Launched in the Month,Units Sold in the Month,Median Price($psm) # in the Month Number Sold By Price Range,Lowest Price ($psm) # in the Month,Highest Price ($psm) # in the Month
 2013,02,# 1 LOFT,LORONG 24 GEYLANG,The One Development 2 Pte Ltd,Non-Landed,RCR,80,80,24,56,0,21,"14,413","11,851","14,919"
 2013,02,# 1 SUITES,LORONG 20 GEYLANG,The One Development Pte Ltd,Non-Landed,RCR,112,0,0,0,0,0,-,-,-
 2013,02,1 CANBERRA,CANBERRA DRIVE,MCC Land (Singapore) Pte Ltd,Exec Condo,OCR,665,665,426,239,0,35,"7,944","6,480","8,482"

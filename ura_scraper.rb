@@ -10,8 +10,8 @@ data = []
 url = "http://www.ura.gov.sg/realEstateIIWeb/price/submitSearch.action"
 
 date_range = (Date.new(2007, 6)..Date.today.prev_month).select{|d| d.day == 1}
-CSV.open("data.csv", "ab") do |csv|
-  date_range.each do |date|
+CSV.open("data.csv", "wb") do |csv|
+  date_range.each_with_index do |date, i|
     year = date.year
     month = date.strftime('%m')
 
@@ -19,13 +19,13 @@ CSV.open("data.csv", "ab") do |csv|
     page = Nokogiri::HTML(response.body)
 
     table = page.css('#SubmitSortForm table')
-    unless defined? fields
+    if i == 0
       fields = table.css('table > thead > tr > td').map(&:text).map(&:strip)
       csv << ['year', 'month'] + fields
     end
     rows = table.css('tr.rowalternate')
 
-    next if table.empty? || fields.empty? || rows.empty?
+    next if table.empty? || rows.empty?
 
     rows.each do |r|
       values = r.css('td').map{|cell| cell.text.strip }
